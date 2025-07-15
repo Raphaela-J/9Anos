@@ -24,7 +24,7 @@ body {
 
 #texto-animado-principal {
     /* MOBILE: Fonte gigante e flexível usando Viewport Width (vw) */
-    font-size: 25vw;
+    font-size: 20vw;
     color: #ecd3dc;
     margin: 0;
     white-space: nowrap; 
